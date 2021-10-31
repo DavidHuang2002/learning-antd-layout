@@ -12,7 +12,7 @@
 // pass a func to bar to let it change current based on selection
 // have a helper setting display states based on current
 
-import "./styles.css";
+
 import { useState } from "react";
 
 import HeadBar from "./HeadBar";
