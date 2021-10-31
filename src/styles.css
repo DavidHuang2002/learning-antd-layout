@@ -1,0 +1,17 @@
+@import "antd/dist/antd.css";
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.main-content {
+  margin-top: calc(64px + 2rem);
+  padding: 0 50px;
+}
+
+.selected-content {
+  padding: 30% 30%;
+  background-color: #fff;
+}
