@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function ContentB({ ifDisplay }) {
+export default function ContentB({ ifDisplay=true }) {
   return (
     <section
       className="contentB"
