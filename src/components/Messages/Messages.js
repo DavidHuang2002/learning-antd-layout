@@ -25,7 +25,9 @@ export default function Messages({match}) {
       </nav>
 
       <Switch>
-        <Route path={`${path}/:id`} component={Message}/>
+        <Route path={`${path}/:id`}>
+          <Message/>
+        </Route>
       </Switch>
     </section>
   );
