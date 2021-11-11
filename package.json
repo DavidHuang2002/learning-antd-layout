@@ -2,9 +2,7 @@
   "name": "learning-antd-layout",
   "version": "0.1.0",
   "private": true,
-
   "homepage": "https://davidhuang2002.github.io/learning-antd-layout/",
-
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@ant-design/pro-layout": "^7.0.1-alpha.4",
@@ -46,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
