@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/learning-antd-layout/static/css/main.aac75569.chunk.css",
+    "main.js": "/learning-antd-layout/static/js/main.72eb3b1f.chunk.js",
+    "main.js.map": "/learning-antd-layout/static/js/main.72eb3b1f.chunk.js.map",
+    "runtime-main.js": "/learning-antd-layout/static/js/runtime-main.4dacb687.js",
+    "runtime-main.js.map": "/learning-antd-layout/static/js/runtime-main.4dacb687.js.map",
+    "static/css/2.928c3365.chunk.css": "/learning-antd-layout/static/css/2.928c3365.chunk.css",
+    "static/js/2.a5ae3701.chunk.js": "/learning-antd-layout/static/js/2.a5ae3701.chunk.js",
+    "static/js/2.a5ae3701.chunk.js.map": "/learning-antd-layout/static/js/2.a5ae3701.chunk.js.map",
+    "index.html": "/learning-antd-layout/index.html",
+    "static/css/2.928c3365.chunk.css.map": "/learning-antd-layout/static/css/2.928c3365.chunk.css.map",
+    "static/css/main.aac75569.chunk.css.map": "/learning-antd-layout/static/css/main.aac75569.chunk.css.map",
+    "static/js/2.a5ae3701.chunk.js.LICENSE.txt": "/learning-antd-layout/static/js/2.a5ae3701.chunk.js.LICENSE.txt",
+    "static/media/logo.f6f46747.PNG": "/learning-antd-layout/static/media/logo.f6f46747.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dacb687.js",
+    "static/css/2.928c3365.chunk.css",
+    "static/js/2.a5ae3701.chunk.js",
+    "static/css/main.aac75569.chunk.css",
+    "static/js/main.72eb3b1f.chunk.js"
+  ]
+}
