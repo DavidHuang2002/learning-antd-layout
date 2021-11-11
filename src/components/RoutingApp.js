@@ -23,8 +23,11 @@ export default function RoutingApp(){
         </ul>
       </nav>
 
-      <HomePage />
       <Switch>
+        <Route exact path="/">
+          <HomePage/>
+        </Route>
+
         <Route path="/A">
           <ContentA/>
         </Route>
@@ -41,7 +44,7 @@ export default function RoutingApp(){
         <Route path="/messages" component={Messages}/>
 
         {/* Default back to homepage */}
-        <Redirect to={HomePage}/>
+        <Redirect to='/'/>
       </Switch>
     </div>
   );

@@ -2,9 +2,10 @@ import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 import {BrowserRouter} from "react-router-dom";
 
-import "./styles.css"
-
-import App from "./components/RoutingApp";
+import "./styles.less"
+// import 'antd/dist/antd.css';
+// import '@ant-design/pro-layout/dist/layout.css';
+import App from "./components/ProLayoutApp";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
